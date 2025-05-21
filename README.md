@@ -6,8 +6,8 @@ This repository contains a collection of beginner-level Python projects to pract
 
 | Project | Description |
 |--------|-------------|
-| [Band Name Generator](./Band%20Name%20Generator/main.py) | A fun script that asks for user input and generates a band name |
-| [Tip Calculator](./Tip%20Calculator/main.py) | Calculates how much each person should pay in a group bill |
+| [Band Name Generator](./Band%20Name%20Generator.py) | A fun script that asks for user input and generates a band name |
+| [Tip Calculator](./Tip%20Calculator.py) | Calculates how much each person should pay in a group bill |
 
 ## 🛠 How to Use
 
