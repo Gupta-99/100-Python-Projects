@@ -26,7 +26,7 @@ direction=input("You are at a crossroad! Where are you gonna go NEXT?! Type 'Lef
 if direction == "left" or direction == "Left" or direction == "LEFT":
     swim=input("You have reached a River! What do you do NOW??!\n Type 'Swim' or 'Wait' ")
     if swim=="Swim" or swim=="swim" or swim=="SWIM":
-        print("You were attacked by Trout!\n GAME OVER!")
+        print("You were attacked by SHARK!\n GAME OVER!")
     elif swim=="Wait" or swim=="wait" or swim=="WAIT":
         door=input("There are 3 Mysterious doors! Red, Blue, Yellow! Which one will you choose? ")
         if door=="Red" or door=="red" or door=="RED" or door=="R" or door=="r":
