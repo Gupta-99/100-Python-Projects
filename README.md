@@ -10,6 +10,7 @@ This repository contains a collection of beginner-level Python projects to pract
 | [Tip Calculator](./Tip%20Calculator.py) | Calculates how much each person should pay in a group bill |
 | [Treasure Island](./Treasure%20Island.py) | A Simple Treasure Island game of choices! |
 | [RPS Game](./Rock%20Paper%20Scissors.py) | A Simple RPS game to pass the spare time! 😊 |
+| [Password Generator](./Password%20Generator.py) | Your next strongest password as per your needs is just a "Run Button" away! |
 ## 🛠 How to Use
 
 1. Clone this repository:
