@@ -12,6 +12,7 @@ This repository contains a collection of beginner-level Python projects to pract
 | [RPS Game](./Rock%20Paper%20Scissors.py) | A Simple RPS game to pass the spare time! 😊 |
 | [Password Generator](./Password%20Generator.py) | Your next strongest password as per your needs is just a "Run Button" away! |
 | [Hangman](./Hangman.py) | An amusing Hangman game to pass the time |
+| [Caesar Cipher Tool](./Caesar_Cipher_Short.py) | Handy tool to encrypt/decrypt texts according to your will! |
 ## 🛠 How to Use
 
 1. Clone this repository:
