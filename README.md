@@ -11,6 +11,7 @@ This repository contains a collection of beginner-level Python projects to pract
 | [Treasure Island](./Treasure%20Island.py) | A Simple Treasure Island game of choices! |
 | [RPS Game](./Rock%20Paper%20Scissors.py) | A Simple RPS game to pass the spare time! 😊 |
 | [Password Generator](./Password%20Generator.py) | Your next strongest password as per your needs is just a "Run Button" away! |
+| [Hangman](./Hangman.py) | An amusing Hangman game to pass the time |
 ## 🛠 How to Use
 
 1. Clone this repository:
