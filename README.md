@@ -13,6 +13,7 @@ This repository contains a collection of beginner-level Python projects to pract
 | [Password Generator](./Password%20Generator.py) | Your next strongest password as per your needs is just a "Run Button" away! |
 | [Hangman](./Hangman.py) | An amusing Hangman game to pass the time |
 | [Caesar Cipher Tool](./Caesar_Cipher_Short.py) | Handy tool to encrypt/decrypt texts according to your will! |
+| [Silent Auction](./Silent%20Auction.py) | Friendly Silent Auction where the highest bidder wins! |
 ## 🛠 How to Use
 
 1. Clone this repository:
