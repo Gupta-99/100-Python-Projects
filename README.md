@@ -1,4 +1,4 @@
-# 100 Python Projects
+# 100 Days of Python Coding
 
 This repository contains a collection of beginner-level Python projects to practice and strengthen programming skills.
 
