@@ -14,6 +14,7 @@ This repository contains a collection of beginner-level Python projects to pract
 | [Hangman](./Hangman.py) | An amusing Hangman game to pass the time |
 | [Caesar Cipher Tool](./Caesar_Cipher_Short.py) | Handy tool to encrypt/decrypt texts according to your will! |
 | [Silent Auction](./Silent%20Auction.py) | Friendly Silent Auction where the highest bidder wins! |
+| [BlackJack Game](./BlackJack.py) | Can you beat the computer in a game of BlackJack? |
 ## 🛠 How to Use
 
 1. Clone this repository:
