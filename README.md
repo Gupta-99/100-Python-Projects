@@ -15,6 +15,7 @@ This repository contains a collection of beginner-level Python projects to pract
 | [Caesar Cipher Tool](./Caesar_Cipher_Short.py) | Handy tool to encrypt/decrypt texts according to your will! |
 | [Silent Auction](./Silent%20Auction.py) | Friendly Silent Auction where the highest bidder wins! |
 | [BlackJack Game](./BlackJack.py) | Can you beat the computer in a game of BlackJack? |
+| [Guess The Number!](./Guess%20The%20Number.py) | Beat the computer in a game of number guessing! |
 ## 🛠 How to Use
 
 1. Clone this repository:
