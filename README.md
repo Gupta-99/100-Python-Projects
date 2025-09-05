@@ -16,6 +16,7 @@ This repository contains a collection of beginner-level Python projects to pract
 | [Silent Auction](./Silent%20Auction.py) | Friendly Silent Auction where the highest bidder wins! |
 | [BlackJack Game](./BlackJack.py) | Can you beat the computer in a game of BlackJack? |
 | [Guess The Number!](./Guess%20The%20Number.py) | Beat the computer in a game of number guessing! |
+| [Higher or Lower?](./Higher%20or%20Lower.py) | Guess who has more followers! |
 ## 🛠 How to Use
 
 1. Clone this repository:
